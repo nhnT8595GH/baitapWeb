@@ -1,0 +1,68 @@
+  *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    a{
+        text-decoration: none;
+    }
+    .heading{
+        background-color: #85BCFC;
+    }
+    .header_1{
+        width: 100%;
+        height: auto;
+    }
+    .header_1_logo img{
+        width: 100px;
+        height: 50px;
+    }
+    .navigation{
+        background-color: #5EAB46;
+        color: #FFFFFF;
+        font-weight: bold;
+        font-size: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        gap: 50px;
+    }
+    .main_Container{
+        background-color:#E5E5E5;
+    }
+    .productsList{
+        display:flex;
+        gap: 50px;
+        justify-content: center;
+    }
+    .medicalKnowledge{
+        display:flex;
+        gap: 50px;
+        justify-content: center;
+    }
+    .handbook{
+        display:flex;
+        gap: 50px;
+        justify-content: center;
+    }
+    .contact{
+        display:flex;
+        gap: 50px;
+        justify-content:center;
+    }
+    img{
+        width:300px;
+        height:200px;
+        border: 1px solid black;
+    }
+    h2{
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+    .aboutPMC{
+        background-color: #E5E5E5;
+    }
+
